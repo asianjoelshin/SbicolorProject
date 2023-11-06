@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+#Title: SbicolorProject - Align Sequences
+#Graduate Student: Joel Shin
+#PI: Dr. Yim
+
 import argparse
 
 parser = argparse.ArgumentParser(description='Separate the Sequences by Class')
