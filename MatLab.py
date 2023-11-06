@@ -1,3 +1,8 @@
+#!/usr/bin/env python
+#Title: SbicolorProject - Align Sequences
+#Graduate Student: Joel Shin
+#PI: Dr. Yim
+
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 from matplotlib.path import Path
